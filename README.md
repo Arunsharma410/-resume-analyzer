@@ -33,8 +33,8 @@
 
 ## 🚀 Live Demo
 
-- **App:** [your-vercel-url.vercel.app](#)
-- **API:** [your-render-url.onrender.com](#)
+- **App:** [resume-analyzer-sigma-five.vercel.app](#)
+- **API:** [https://resume-analyzer-qjot.onrender.com](#)
 
 ## 📦 Installation
 
@@ -56,9 +56,6 @@ npm run dev
 
 ### Backend (.env)
 \`\`\`
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-GEMINI_API_KEY=your_gemini_key
 FRONTEND_URL=http://localhost:5173
 \`\`\`
 
